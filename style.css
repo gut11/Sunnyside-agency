@@ -136,8 +136,8 @@ header{
     content: "";
     display: block;
     position: absolute;
-    top: -30px;
-    right: 0px;
+    top: -1.875em;
+    right: 0;
     border-top: 3.75em solid transparent;
     border-right: 3.75em  solid white;
     border-bottom: 3.75em  solid transparent;
@@ -153,10 +153,10 @@ header{
     text-align: center;
     background-color: hsl(51, 100%, 49%);
     padding: 1em;
-    border-radius: 30px;
+    border-radius: 1.875em;
     font-family: var(--ff-titles);
     font-weight: 900;
-    letter-spacing: 0.75px;
+    letter-spacing: 0.1em;
     color: rgb(80, 74, 74);
     cursor: pointer;
 }
@@ -166,7 +166,7 @@ header{
 #top-right-options :nth-child(4) button{
     width: 7em;
     height: 3em;
-    transform: translateY(2px);
+    transform: translateY(0.125em);
     font-size: 0.8rem;
     font-weight: 900;
     border-radius: 2em;
@@ -818,7 +818,7 @@ footer{
 
 @media (max-height:540px){
     header{
-        height: 40em;
+        height: 43.2em;
     }
 }
 
