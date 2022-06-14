@@ -1,9 +1,12 @@
 #Sunnyside-agency
 
+PT-BR:
+
 Web site de uma agencia de marketing chamada Sunnyside, totalmente responsivo, funciona em qualquer dispositivo.
 
 Projeto do Frontend Mentor.
 
+EN:
 
 Web site of a marketing agency called Sunnyside, fully responsive, works on any device.
 
